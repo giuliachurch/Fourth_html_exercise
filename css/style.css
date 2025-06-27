@@ -1,55 +1,78 @@
 .background-pattern {
-background-color:rgb(90, 169, 249);
-background-image: url(./../img/Imag2.png);
-background-repeat:repeat-x;
-height:100px;
-padding-top: 20px;
-padding-bottom: 20px;
-margin-top: 0;
-margin-bottom: 0;
-margin-right: 0;
-margin-left: 0;
+    background-color:rgb(90, 169, 249);
+    background-image: url(./../img/Imag2.png);
+    background-repeat:repeat-x;
+    height:100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 0;
 }
 
 .didascalia {
-font-size: small;
-color:gray
+    font-size: small;
+    color:gray
 }
 
 #autore {
-font-size: small;
-color: blue;
+    font-size: small;
+    color: blue;
 }
 
 #titolo-principale {
-font: size h3;
+    font: size h3;
 }
 
 .testo-evidenziato {
-background-color: yellow;
+    background-color: yellow;
 }
 
 .background-blu {
-text-align: left;
-color: white;
-background-color: rgb(90, 169, 249);
-font-size: medium;
+    text-align: left;
+    color: white;
+    background-color: rgb(90, 169, 249);
+    font-size: medium;
 }
 
 .background-bianco {
-text-align: left;
+    text-align: left;
 }
 
 .background-azzurro {
-text-align: left;
-background-color:lightblue;
+    text-align: left;
+    background-color:lightblue;
 }
 
 .didascalia-immagini{
-font-size: small;
-margin: 2px;
+    font-size: small;
+    margin: 2px;
 }
 
 #titolo{
-color: gray;
+    color: gray;
+}
+
+.background-img {
+    background-image: url(../img/Imag5.jpeg);
+    width: 250px;
+    height: 200px;
+}
+
+.testo-sopra-immagine {
+    text-align: center; 
+    color: white;   
+}
+
+.background-img-2 {
+    background-image: url(../img/Imag6.jpeg);
+    width: 250px;
+    height: 200px;
+}
+
+
+.testo-sopra-immagine-2 {
+    text-align: left;
+    color: white;   
 }
