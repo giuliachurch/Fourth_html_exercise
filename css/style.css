@@ -1,0 +1,22 @@
+.background-pattern{
+background-color:rgb(90, 169, 249);
+background-image: url(./../img/Imag2.png);
+background-repeat:repeat-x;
+height:100px;
+padding-top: 20px;
+padding-bottom: 20px;
+margin-top: 0;
+margin-bottom: 0;
+margin-right: 0;
+margin-left: 0;
+}
+
+.didascalia {
+font-size: small;
+color:gray
+}
+
+#autore {
+font-size: small;
+color: blue;
+}
