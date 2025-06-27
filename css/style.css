@@ -22,6 +22,10 @@ color: blue;
 }
 
 #titolo-principale {
-font-size:large ;
+font: size h3;
+}
+
+.testo-evidenziato{
+background-color: yellow;
 }
 
