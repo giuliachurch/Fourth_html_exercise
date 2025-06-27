@@ -1,4 +1,4 @@
-.background-pattern{
+.background-pattern {
 background-color:rgb(90, 169, 249);
 background-image: url(./../img/Imag2.png);
 background-repeat:repeat-x;
@@ -25,7 +25,31 @@ color: blue;
 font: size h3;
 }
 
-.testo-evidenziato{
+.testo-evidenziato {
 background-color: yellow;
 }
 
+.background-blu {
+text-align: left;
+color: white;
+background-color: rgb(90, 169, 249);
+font-size: medium;
+}
+
+.background-bianco {
+text-align: left;
+}
+
+.background-azzurro {
+text-align: left;
+background-color:lightblue;
+}
+
+.didascalia-immagini{
+font-size: small;
+margin: 2px;
+}
+
+#titolo{
+color: gray;
+}
